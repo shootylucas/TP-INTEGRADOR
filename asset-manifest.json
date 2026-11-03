@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/TP-INTEGRADOR/static/js/main.474023b7.js",
+    "main.css": "/TP-INTEGRADOR/static/css/main.b216dab9.css",
+    "main.js": "/TP-INTEGRADOR/static/js/main.b87e5752.js",
     "index.html": "/TP-INTEGRADOR/index.html",
-    "main.474023b7.js.map": "/TP-INTEGRADOR/static/js/main.474023b7.js.map"
+    "main.b216dab9.css.map": "/TP-INTEGRADOR/static/css/main.b216dab9.css.map",
+    "main.b87e5752.js.map": "/TP-INTEGRADOR/static/js/main.b87e5752.js.map"
   },
   "entrypoints": [
-    "static/js/main.474023b7.js"
+    "static/css/main.b216dab9.css",
+    "static/js/main.b87e5752.js"
   ]
 }
